@@ -2,7 +2,7 @@
   "name": "react-card-slider-component",
   "description": "Easy to use card slider",
   "author": "Jalome",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/ReactCardSlider.js",
   "module": "dist/ReactCardSlider.js",
   "files": [
@@ -10,6 +10,17 @@
     "README.md"
   ],
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoeyAlpha5/react-card-slider-component"
+  },
+  "keywords": [
+    "react card slider",
+    "react",
+    "react slider",
+    "react image slider",
+    "jalome"
+  ],
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.11.4",
