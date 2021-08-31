@@ -28,4 +28,4 @@ const slides = [
 
 # Preview
 
-![Alt text](src/assets/slide-image.png?raw=true "react-card-slider-component")
+![Alt text](https://raw.githubusercontent.com/JoeyAlpha5/react-card-slider-component/main/src/assets/slide-image.png?raw=true "react-card-slider-component")
