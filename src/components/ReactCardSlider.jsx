@@ -4,12 +4,12 @@ import { MdChevronLeft,MdChevronRight } from 'react-icons/md';
 const ReactCardSlider =(props)=>{
     const slideLeft =()=>{
         var slider = document.getElementById("slider");
-        slider.scrollLeft = slider.scrollLeft + 500;
+        slider.scrollLeft = slider.scrollLeft - 500;
     }
 
     const slideRight =()=>{
         var slider = document.getElementById("slider");
-        slider.scrollLeft = slider.scrollLeft - 500;
+        slider.scrollLeft = slider.scrollLeft + 500;
     }
 
     return(
