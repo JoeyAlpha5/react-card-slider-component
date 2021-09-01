@@ -2,7 +2,7 @@
   "name": "react-card-slider-component",
   "description": "Easy to use card slider",
   "author": "Jalome",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/ReactCardSlider.js",
   "module": "dist/ReactCardSlider.js",
   "files": [
