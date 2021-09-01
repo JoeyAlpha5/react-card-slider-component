@@ -18,12 +18,12 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 const ReactCardSlider = props => {
   const slideLeft = () => {
     var slider = document.getElementById("slider");
-    slider.scrollLeft = slider.scrollLeft + 500;
+    slider.scrollLeft = slider.scrollLeft - 500;
   };
 
   const slideRight = () => {
     var slider = document.getElementById("slider");
-    slider.scrollLeft = slider.scrollLeft - 500;
+    slider.scrollLeft = slider.scrollLeft + 500;
   };
 
   return /*#__PURE__*/_react.default.createElement("div", {
