@@ -1,6 +1,6 @@
 import './App.css';
-import ReactCardSlider from './components/ReactCardSlider';
-// import ReactCardSlider from 'react-card-slider-component';
+// import ReactCardSlider from './components/ReactCardSlider';
+import ReactCardSlider from 'react-card-slider-component';
 function App() {
   const sliderClick = (slider)=>{
     alert("hello world");
